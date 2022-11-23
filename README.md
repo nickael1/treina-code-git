@@ -8,8 +8,8 @@ Repositório de problemas de programação com o objetivo de ser aplicado durant
 1. Realize o fork do repositório;
 2. Faça o clone do repositório em sua máquina;
 3. Crie uma pasta dentro do diretório do problema que pretende resolver. Depois dentro desta respectiva pasta, crie uma segunda pasta. Formato do caminho de diretórios completo: problemas/id-problema/linguagem/username. Exemplo: problemas/1-calculo-produto/php/fabiosperotto;
-4. resolva o problema;
-5. Copia a ficha-modelo.md para dentro da pasta que possui a sua implementação e preencha o template de acordo;
+4. Resolva o problema;
+5. Copia a ficha-modelo.md para dentro da pasta que possui a sua implementação e preencha o template de acordo (reonomeie para ficha.md);
 6. Crie uma branch com a sua solução no formato: git checkout -b problemas/id-problema/linguagem/username. Para o desafio 1, realizado em php, o nome da branch ficaria: problemas/1-calculo-produto/php/fabiosperotto
 7. Adicione os seus arquivos para esta brach: git add .
 8. Realize o commit (mensagem pode ser de sua escolha): git commit -m "feat: resolvendo o desafio"
