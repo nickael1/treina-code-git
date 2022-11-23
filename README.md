@@ -1,4 +1,4 @@
-# ForkCode
+# Code & Git
 
 Repositório de problemas de programação com o objetivo de ser aplicado durante as formações sobre programação e controle de versão com git. A ideia é fornecer um local para treinamentos de programação, forks e pull requests (mas poderá ser utilizado para outros fins).
 
