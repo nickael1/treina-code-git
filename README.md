@@ -52,7 +52,7 @@ Melhorias na estrutura, correções nos desafios (ou adições de novos), també
 
 ## Premiação
 
-Todos os estudantes, ex-estudantes e colegas do Prof. Fábio que, colaborarem de alguma forma com este repositório (ter um pull request aceito), vão receber a badge [Git Dev](https://www.holopin.io/personalsticker/clflrnr5y33880fl2aj4aro0n).
+Todos que colaborarem de alguma forma com este repositório (ter um pull request aceito), sendo estudante de alguma instituição pública de ensino, poderá receber em seu e-mail o [badge Git Dev](https://www.holopin.io/personalsticker/clflrnr5y33880fl2aj4aro0n).
 
 
 ## Referências
