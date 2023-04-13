@@ -10,5 +10,5 @@
 
 Use o comando abaixo: 
 ```bash
-php prorama.php argv1 argv2 argv3
+php programa.php argv1 argv2 argv3
 ```
