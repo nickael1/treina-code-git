@@ -52,12 +52,12 @@ Melhorias na estrutura, correções nos desafios (ou adições de novos), també
 
 ## Premiação
 
-Todos que colaborarem de alguma forma com este repositório (ter um pull request aceito), sendo estudante de alguma instituição pública de ensino, poderá receber em seu e-mail o [badge Git Dev](https://www.holopin.io/personalsticker/clflrnr5y33880fl2aj4aro0n).
+Todos que colaborarem de alguma forma com este repositório (ter um pull request aceito), sendo estudante de alguma instituição pública de ensino, poderá receber em seu e-mail o <a href="https://www.holopin.io/personalsticker/clflrnr5y33880fl2aj4aro0n" target="_blank">badge Git Dev</a>.
 
 
 ## Referências
 
-- Inspirado pelas contribuições da comunidade [He4rt Developers](https://github.com/he4rt).
-- Como o [git funciona](https://www.youtube.com/watch?v=w3jLJU7DT5E).
-- Documentação de [sintaxe do markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-- Convenção para [descrição de commits](https://www.conventionalcommits.org).
+- Inspirado pelas contribuições da comunidade <a href="https://github.com/he4rt" target="_blank">He4rt Developers</a>.
+- Como o <a href="https://www.youtube.com/watch?v=w3jLJU7DT5E" target="_blank">git funciona</a>.
+- Documentação de  <a href="https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank">sintaxe do markdown</a>.
+- Convenção para <a href="https://www.conventionalcommits.org" target="_blank">descrição de commits</a>.
