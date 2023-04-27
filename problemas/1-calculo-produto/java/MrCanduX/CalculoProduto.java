@@ -12,7 +12,7 @@ public class CalculoProduto {
         float valorUnitario = input.nextFloat();
 
         float valorPago = valorUnitario * quantidade;
-        String valorPagoFormatado = String.format("%.02f",valorPago)
+        String valorPagoFormatado = String.format("%.02f",valorPago);
         
         System.out.println("O produto "+id+" custa R$: "+valorPagoFormatado);
 
