@@ -10,5 +10,5 @@
 
 Use o comando abaixo: 
 ```bash
-python meu_programa.py
+python Main.py
 ```
