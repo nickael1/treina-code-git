@@ -9,5 +9,4 @@
 **Como rodar a solução**: 
 
 Use o comando abaixo: 
-```java ProblemaII.java
-```
+java ProblemaII.java
