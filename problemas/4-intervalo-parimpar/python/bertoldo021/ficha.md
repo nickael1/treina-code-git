@@ -1,6 +1,6 @@
 # Submissão de Solução
 
-**Exercicio:** 1 - desafio par impar
+**Exercicio:** 4 - desafio par impar
 
 **Nome:** bertoldo021  e Bertoldo Rohden 
 
