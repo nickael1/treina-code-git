@@ -10,9 +10,7 @@ No meu caso, optei por uma solução simples utilizando um loop for e algumas co
 Em geral, acredito que o exercício é bastante útil para praticar a lógica de programação e as estruturas de controle básicas, além de ajudar a fixar conceitos como divisibilidade e operações matemáticas em Python.
 
 **Como rodar a solução**: 
-`python FizzBuzz.py argv1`
-Onde `argv1` é um número inteiro
-Por exemplo: 
+`python FizzBuzz.py`
 ```bash
-python FizzBuzz.py 16
+python FizzBuzz.py
 ```
