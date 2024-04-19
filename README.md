@@ -7,12 +7,12 @@ Repositório de problemas de programação com o objetivo de ser aplicado durant
 
 1. Realize o fork do repositório;
 2. Faça o clone do repositório em sua máquina;
-3. Crie uma pasta dentro do diretório do problema que pretende resolver, nomenado-a com o nome da linguagem que irá utilizar (usar lowercase). Depois dentro desta, crie uma outra pasta com o seu username. É dentro desta última que irá conter a sua solução. Formato do caminho de diretórios completo: *problemas/id-problema/linguagem/username*. **Exemplo**: problemas/1-calculo-produto/php/fabiosperotto;
+3. Crie uma pasta dentro do diretório do problema que pretende resolver, nomeando-a com o nome da linguagem que irá utilizar (usar lowercase). Depois dentro desta, crie uma outra pasta com o seu username. É dentro desta última que irá conter a sua solução. Formato do caminho de diretórios completo: *problemas/id-problema/linguagem/username*. **Exemplo**: problemas/1-calculo-produto/php/fabiosperotto;
 4. Resolva o problema;
 5. Copia a ficha-modelo.md para dentro da pasta que possui a sua implementação e preencha o template de acordo (reonomeie para ficha.md);
 6. Crie uma branch com a sua solução no formato: git checkout -b problemas/id-problema/linguagem/username. Para o desafio 1, realizado em php, o nome da branch ficaria: problemas/1-calculo-produto/php/fabiosperotto
 7. Adicione os seus arquivos para esta brach: git add .
-8. Realize o commit (mensagem pode ser de sua escolha): git commit -m "feat: resolvendo o desafio"
+8. Realize o commit (mensagem pode ser de sua escolha): git commit -m "feat: resolvendo o desafio X"
 9. Realize o push no branch respectivo: git push origin problemas/id-problema/linguagem/username. Ou seja, conforme exemplo no item 6: git push origin problemas/1-calculo-produto/php/fabiosperotto
 10. Abra um pull request para este projeto aqui;
 11. Agora é esperar pela revisão da sua contribuição.
@@ -22,13 +22,13 @@ Passo a passo de uma organização para a contribuição, não copie e cole os c
 ```sh
 #1: realizar o fork no github
 #2: depois realizar o clone do projeto
-#3:
+#3: crie a sua branch
+$ git checkout -b problemas/1-calculo-produto/php/seu-username
+#4:
 $ cd problemas/1-calculo-produto/
 $ mkdir php/seu-username
-#4: implemente a solucao
-#5: depois, copie a ficha-modelo.md para o diretorio php/seu-username, renomear para ficha.md
-#6:
-$ git checkout -b problemas/1-calculo-produto/php/seu-username
+#5: implemente a solucao
+#6: depois, copie a ficha-modelo.md para o diretorio php/seu-username, renomear para ficha.md
 #7: 
 $ git add .
 #8:
