@@ -22,17 +22,17 @@ Passo a passo de uma organização para a contribuição, não copie e cole os c
 ```sh
 #1: realizar o fork no github
 #2: depois realizar o clone do projeto
-#3: crie a sua branch
-$ git checkout -b problemas/1-calculo-produto/php/seu-username
-#4:
+#3:
 $ cd problemas/1-calculo-produto/
 $ mkdir php/seu-username
-#5: implemente a solucao
-#6: depois, copie a ficha-modelo.md para o diretorio php/seu-username, renomear para ficha.md
+#4: implemente a solucao
+#5: depois, copie a ficha-modelo.md para o diretorio php/seu-username, renomear para ficha.md
+#6: crie a sua branch
+$ git checkout -b problemas/1-calculo-produto/php/seu-username
 #7: 
 $ git add .
 #8:
-$ git commit -m "resolvendo o problema ..."
+$ git commit -m "resolvendo o problema tal..."
 #9:
 $ git push origin problemas/1-calculo-produto/php/seu-username
 #10: verifique as atualizacoes no seu github e faca o pull request 
