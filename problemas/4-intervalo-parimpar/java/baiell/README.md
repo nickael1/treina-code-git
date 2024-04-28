@@ -4,7 +4,7 @@
 
 **Nome:** Nickael Arruda Lima
 
-**Como executar:**
+**Como executar:** 
 Abra o Netbeans e crie um novo projeto selecionando "File > New Project > Java with Ant > Java Application".
 Expanda as pastas calculo-produto-solucao > Source Packages > calculo.produto.solucao e clique no arquivo CalculoProdutoSolucao.java.
 Dentro do método public static void main, cole o código presente no arquivo calcula-produto-solucao.java.
